@@ -1,5 +1,7 @@
 # Tic Tac Toe Game
 
+![Tic Tac Toe Screenshot](Tic-Tac-Toe-Python.jpg)
+
 This is a Python implementation of the classic Tic Tac Toe game, structured with modular code organization. The game allows two players to take turns marking X and O on a 3x3 grid. 
 
 ## Features:
